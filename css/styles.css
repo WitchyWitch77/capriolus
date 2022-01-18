@@ -30,3 +30,6 @@ footer {
     border-bottom: 1px ridge;
     min-height: 200px;
 }
+h4 {
+    box-align: right;
+}
