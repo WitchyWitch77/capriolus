@@ -10,8 +10,8 @@ h2 {
     color: #8e9ada; 
 }
 
-footer {
-    background-image: linear-gradient(#CEC8ff, white);
+.site-footer{
+    background-image: linear-gradient(#CEC8FF, white);
     padding: 20px 0;
 }
 
