@@ -3,11 +3,15 @@ body {
 }
 
 h1, h2, h3 {
-    font-family: "Lobster", cursive; 
+    font-family: "Lobster", cursive;
 }
 
 h2 {
-    color: #8e9ada; 
+    color: #3046C5;
+}
+
+header h2 {
+    color: #CEC8FF;
 }
 
 .site-footer{
@@ -19,6 +23,7 @@ h2 {
     padding: 30px;
     background-image: linear-gradient(to right, #5637DD, #3046C5, #60106B);
     color: white;
+    margin: 0;
 }
 
 .row-content {
@@ -26,6 +31,8 @@ h2 {
     border-bottom: 1px ridge;
     min-height: 200px;
 }
-h4 {
-    box-align: left;
+
+.navbar {
+    background-color: #901CAD;
 }
+
