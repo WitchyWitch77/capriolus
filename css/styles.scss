@@ -1,9 +1,9 @@
-$color-teal: #494b4b;
-$color-primary: #3046C5;
-$color-secondary: #5637dd;
+$color-teal: #1b4b4b;
+$color-primary: #074621;
+$color-secondary: #372c66;
 $color-pale: #CEC8FF;
-$color-mid: #901CAD;
-$color-dark: #60106b;
+$color-mid: #380e42;
+$color-dark: #22722f;
 $color-black-transparent: rgba(0, 0, 0, 0.5);
 
 $body-font: "Open Sans", sans-serif;
@@ -11,6 +11,7 @@ $header-font: "Lobster", cursive;
 
 body {
     font-family: $body-font;
+    background-color: rgba(200, 206, 202, 0.356);
 }
 
 h1, h2, h3 {
