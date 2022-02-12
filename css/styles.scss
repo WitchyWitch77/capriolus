@@ -83,15 +83,6 @@ header {
         color: white;
     }
 }
-
-header {
-    position: relative;
-    background-color: black;
-    min-height: 25rem;
-    height: 75vh;
-    width: 100%;
-    overflow: show;
-  }
   
   header video {
     position: absolute;
@@ -117,13 +108,11 @@ header {
     position: absolute;
     top: 0;
     left: 0;
-    height: 100%;
-    width: 100%;
     background-color: black;
     opacity: 0.5;
     z-index: 1;
   }
-  
+
   /* Media Query for devices withi coarse pointers and no hover functionality */
   
   /* This will use a fallback image instead of a video for devices that commonly do not support the HTML5 video element */
